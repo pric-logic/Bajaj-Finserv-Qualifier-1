@@ -1,0 +1,9 @@
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\config\AppConfig.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\dto\WebhookResponse.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\repository\SolutionRepository.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\HealthQualifierApplication.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\entity\Solution.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\dto\SolutionRequest.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\dto\WebhookRequest.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\service\SqlProblemSolver.java
+D:\bajaj finserv\src\main\java\com\bajajfinserv\healthqualifier\service\WebhookService.java
